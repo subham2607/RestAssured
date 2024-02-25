@@ -1,0 +1,14 @@
+{
+	"students":[
+		{
+			"id":1,
+			"name":"John",
+			"location":"France",
+			"phone":"123456",
+			"courses":[
+				"C",
+				"C++"
+			]
+		}
+	]
+}
